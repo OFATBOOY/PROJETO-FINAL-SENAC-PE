@@ -2,7 +2,7 @@
 
 > Status: Concluído ✅
 
-<h1> PROJETO FINAL SENAC-PE </h1>
+<h1> PROJETO FINAL SENAC-PE 🏴󠁢󠁲󠁰󠁥󠁿 </h1>
 
 ### Projeto criado por @Theust e colaborado por @ofatbooy.
 
