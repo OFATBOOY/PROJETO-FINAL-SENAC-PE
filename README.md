@@ -24,11 +24,13 @@
     </td>
   </tr>
 </table>
+
 <h2>Principais Funcionalidades da Automação:</h2>
-* Buscar base de dados no sistema
-* Ler a base de dados
-* Validar a base de dados com CPF's
-* Criar um novo arquivo com a validação, retornando **"Válido"** ou **"Inválido"**
+
+- Buscar base de dados no sistema
+-  Ler a base de dados
+-  Validar a base de dados com CPF's
+-  Criar um novo arquivo com a validação, retornando **"Válido"** ou **"Inválido"**
 
 ## Exemplos de automação que podem ser aplicados com Python:
 - Relatório
